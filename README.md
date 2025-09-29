@@ -150,6 +150,10 @@ Programming Language:** C++
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- [GitHub](https://github.com/YOUR_USERNAME)
+
  🚀 Getting Started
 
  1. Clone the repository 
