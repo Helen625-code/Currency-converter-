@@ -8,6 +8,78 @@
 
 A simple Currency Converter application that allows users to convert amounts between different currencies. Built as a beginner-friendly project to practice programming concepts and working with GitHub repositories.
 <br>
+
+ 📂 Projects Included
+
+ 1️⃣ 💱 Currency Converter
+- Converts from **11 currencies** (USD, EUR, GBP, INR, SAR, AED, CNY, JPY, BTC, ETH, Pi) into **Pakistani Rupees (PKR)**.  
+- **Concepts Used:**
+  - Functions, Switch Case, Loops, Conditional Statements, Input Validation.  
+- **Features:**
+  - Supports multiple conversions in one run.  
+  - Error handling for invalid inputs.  
+  - Beginner-friendly and modular design.  
+
+---
+
+### 2️⃣ 📅 Date & Time Calculator
+- Perform operations on **dates and times** (e.g., difference between two dates, add days, subtract days).  
+- **Concepts Used:**
+  - Structures for date storage.  
+  - Functions for date validation.  
+  - Conditional logic for leap years.  
+- **Features:**
+  - Find difference in days, weeks, months, years.  
+  - Add/subtract custom days.  
+  - Error handling for invalid dates.  
+
+---
+
+### 3️⃣ 🧮 Calculator
+- A **basic + scientific calculator** in C++.  
+- **Concepts Used:**
+  - Switch case for operations.  
+  - Functions for modular arithmetic.  
+  - Loops for repeated calculations.  
+- **Features:**
+  - Basic operations → Addition, Subtraction, Multiplication, Division.  
+  - Scientific operations → Power, Square Root, Factorial, Logarithm.  
+  - Error handling for divide by zero.  
+
+---
+
+ 4️⃣ 📊 Data Visualizer (Text-based)
+- Simple program to display **data as charts/graphs** (using text/ASCII).  
+- **Concepts Used:**
+  - Loops, Arrays, Nested Loops.  
+- **Features:**
+  - Bar chart representation of values.  
+  - Histogram-like output in console.  
+  - Extendable to other formats.  
+
+5️⃣ 🔐 Password Generator
+- Generates **strong random passwords**.  
+- **Concepts Used:**
+  - Random number generation (`rand()` / `srand()`).  
+  - Character arrays and strings.  
+- **Features:**
+  - Customizable password length.  
+  - Mix of uppercase, lowercase, digits, and symbols.  
+  - Ensures strong and secure output.  
+
+
+ 🖥️ How to Run
+
+🔹 Windows (Dev-C++ / Code::Blocks)
+1. Download or clone the repository.  
+2. Open the project file (`.cpp`) in your IDE.  
+3. Compile and run the program.  
+
+🔹 Command Line (g++)
+If you have **g++** installed:
+```bash
+g++ ProjectName.cpp -o project
+./project
 💱 C++ Currency Converter
 
 This is a simple Currency Converter written in C++ that converts different currencies into Pakistani Rupees (PKR). It's a beginner-friendly console-based project using basic concepts like:
