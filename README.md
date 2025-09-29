@@ -1,6 +1,10 @@
  💱 Currency Converter
- 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/emanzehrahelen/currency-converter)
+![GitHub stars](https://img.shields.io/github/stars/emanzehrahelen/currency-converter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/emanzehrahelen/currency-converter?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/emanzehrahelen/currency-converter)
+
 
 A simple Currency Converter application that allows users to convert amounts between different currencies. Built as a beginner-friendly project to practice programming concepts and working with GitHub repositories.
 <br>
