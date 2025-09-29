@@ -78,3 +78,22 @@ Converted Amount in PKR: 28000
 📂 Project Structure: currency_converter.cpp # Main source file README.txt # This file
 
 🙌 Author : EmanZehraHelen
+
+
+✨ Features
+- Convert between multiple currencies  
+- Simple and clean user interface (CLI)  
+- Beginner-friendly project for practice  
+- Well-structured and easy-to-understand C++ code  
+
+🛠️ Tech Stack
+
+Programming Language:** C++
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+ 🚀 Getting Started
+
+ 1. Clone the repository 
+
