@@ -152,7 +152,7 @@ Programming Language:** C++
 ---
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/eman-zehra-helen)
-- [GitHub](https://github.com/helen)
+- [GitHub](https://github.com/helen625-code)
 
  🚀 Getting Started
 
