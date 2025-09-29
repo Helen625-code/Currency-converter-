@@ -80,11 +80,11 @@ Converted Amount in PKR: 28000
 🙌 Author : EmanZehraHelen
 
 
-✨ Features
-- Convert between multiple currencies  
-- Simple and clean user interface (CLI)  
-- Beginner-friendly project for practice  
-- Well-structured and easy-to-understand C++ code  
+## 📌 Future Improvements
+- 🌐 **Live Exchange Rate API** – Fetch real-time currency data from the internet  
+- 💰 **Support More Currencies** – Expand beyond the basic set of currencies  
+- 🖼️ **Graphical User Interface (GUI)** – Add a user-friendly desktop interface  
+- ☁️ **Web Deployment** – Deploy as a web application for global access  
 
 🛠️ Tech Stack
 
