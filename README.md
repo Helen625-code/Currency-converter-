@@ -1,4 +1,7 @@
-# Currency-converter-
+ 💱 Currency Converter
+ 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+
 A simple Currency Converter application that allows users to convert amounts between different currencies. Built as a beginner-friendly project to practice programming concepts and working with GitHub repositories.
 <br>
 💱 C++ Currency Converter
