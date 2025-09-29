@@ -151,8 +151,8 @@ Programming Language:** C++
 
 ---
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [GitHub](https://github.com/YOUR_USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/eman-zehra-helen)
+- [GitHub](https://github.com/helen)
 
  🚀 Getting Started
 
