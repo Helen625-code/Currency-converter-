@@ -9,9 +9,9 @@
 A simple Currency Converter application that allows users to convert amounts between different currencies. Built as a beginner-friendly project to practice programming concepts and working with GitHub repositories.
 <br>
 
- 📂 Projects Included
+ ### 📂 Projects Included
 
- 1️⃣ 💱 Currency Converter
+ ### 1️⃣ 💱 Currency Converter
 - Converts from **11 currencies** (USD, EUR, GBP, INR, SAR, AED, CNY, JPY, BTC, ETH, Pi) into **Pakistani Rupees (PKR)**.  
 - **Concepts Used:**
   - Functions, Switch Case, Loops, Conditional Statements, Input Validation.  
@@ -66,21 +66,6 @@ A simple Currency Converter application that allows users to convert amounts bet
   - Customizable password length.  
   - Mix of uppercase, lowercase, digits, and symbols.  
   - Ensures strong and secure output.  
-
-
- 🖥️ How to Run
-
-🔹 Windows (Dev-C++ / Code::Blocks)
-1. Download or clone the repository.  
-2. Open the project file (`.cpp`) in your IDE.  
-3. Compile and run the program.  
-
-🔹 Command Line (g++)
-If you have **g++** installed:
-```bash
-g++ ProjectName.cpp -o project
-./project
-💱 C++ Currency Converter
 
 This is a simple Currency Converter written in C++ that converts different currencies into Pakistani Rupees (PKR). It's a beginner-friendly console-based project using basic concepts like:
 
